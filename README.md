@@ -47,3 +47,4 @@ https://medium.com/oak-blockchain/polkadot-xcm-cross-chain-asset-transfer-demo-5
 https://medium.com/polkadot-network/xcm-part-ii-versioning-and-compatibility-b313fc257b83
 https://substrate.stackexchange.com/search?q=xcm
 https://substrate.stackexchange.com/questions/109/how-do-parachain-crowdloan-accounts-work?rq=1
+https://substrate.stackexchange.com/questions/2328/can-we-mint-burn-statemint-assets-on-other-parachains?rq=1
