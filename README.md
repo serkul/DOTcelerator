@@ -17,7 +17,7 @@ Put all relevant info and references here [Readings](#readings)
 - [ ] Get a green flag from instructors
 - [ ] Set up testing environment, e.g. private parachains 
 
-### <a name=``readings``></a>Readings
+### Readings
 XCM description from Polkadot Wiki:
 https://wiki.polkadot.network/docs/learn-xcm
 
@@ -32,7 +32,19 @@ A series of articles explaining motivation and mechanisms of XCM format in detai
 [XCM Part III: Execution and Error Management](https://medium.com/polkadot-network/xcm-part-iii-execution-and-error-management-ceb8155dd166)
 
 
+
 #### Relevant pallets
 https://github.com/paritytech/cumulus/tree/master/pallets/xcm
 https://github.com/paritytech/cumulus/tree/master/pallets/xcmp-queue
 https://github.com/paritytech/polkadot/tree/master/xcm/pallet-xcm
+
+
+#### Tangential useful info
+
+https://www.youtube.com/watch?v=5cgq5jOZx9g&ab_channel=ParityTech
+https://medium.com/polkadot-network/xcm-the-cross-consensus-message-format-3b77b1373392
+https://medium.com/oak-blockchain/polkadot-xcm-cross-chain-asset-transfer-demo-53aa9a2e97a7
+https://medium.com/polkadot-network/xcm-part-ii-versioning-and-compatibility-b313fc257b83
+https://substrate.stackexchange.com/search?q=xcm
+https://substrate.stackexchange.com/questions/109/how-do-parachain-crowdloan-accounts-work?rq=1
+https://substrate.stackexchange.com/questions/2328/can-we-mint-burn-statemint-assets-on-other-parachains?rq=1
