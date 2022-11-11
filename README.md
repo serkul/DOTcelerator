@@ -14,6 +14,8 @@ Put all relevant info and references here [Readings](#readings)
 ## Roadmap
 
 - [ ] Come up with minimal functionality which can be achieved within DevCamp
+Proposal 
+![alt text](https://github.com/serkul/DOTcelerator/blob/master/System.png?raw=true)
 - [ ] Get a green flag from instructors
 - [ ] Set up testing environment, e.g. private parachains 
 
