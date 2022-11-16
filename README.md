@@ -1,5 +1,5 @@
 # DOTcelerator
-Polkadot DevCamp project: a parachain or substrate pallet or ... to make fundraising in Polkadot/Kusama ecosystem easier
+Polkadot DevCamp project: a parachain or substrate pallet or ... to make fundraising in Polkadot/Kusama ecosystem easier.
 
 ## Idea
 The fundraising for blockchain projects often involves Initial Coin Offering (ICO). The presale of tokens is often done on an existing blockchains. When the startup project goes life, the presale tokens have to be transferred on the new chain when the project goes life. This often involves token claims which can be troublesome. Polkadot/Kusama ecosystem has XCMP (Cross Consensus Message Passing) which can alleviates this issue by making a hassle-free token transfer. There are additional benefits for ICO to be done on a parachain or smart contract inside Polkadot/Kusama:
