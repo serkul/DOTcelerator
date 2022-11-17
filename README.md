@@ -1,14 +1,47 @@
 # DOTcelerator
-Polkadot DevCamp project: a parachain or substrate pallet or ... to make fundraising in Polkadot/Kusama ecosystem easier.
 
-## Idea
-The fundraising for blockchain projects often involves Initial Coin Offering (ICO). The presale of tokens is often done on an existing blockchains. When the startup project goes life, the presale tokens have to be transferred on the new chain when the project goes life. This often involves token claims which can be troublesome. Polkadot/Kusama ecosystem has XCMP (Cross Consensus Message Passing) which can alleviates this issue by making a hassle-free token transfer. There are additional benefits for ICO to be done on a parachain or smart contract inside Polkadot/Kusama:
-* Onchain governance is possible even while the project is underdevelopment
-* Presale tokens can be transferred before their native chain goes life
-* Initial spenders can change during the process
-* ...
 
-Put all relevant info and references here [Readings](#readings)
+##Abstract
+ 
+ 
+Initial fundraising and token allocation for candidate parachain projects (ICO) is managed and under full control of the project team. The current model suffers from a lack of transparency and exposes the contributors to a risk of fraud. 
+Our proposal is to create a DotAccelerator, a parachain that allows contributors to exchange KSM/DOT for the candidate  parachain project token. 
+Once the candidate  parachain project wins the parachain auction the token is distributed to the ICO participants.
+In the future we envision that the base functionality can include governance and effectively allow parachain project treasury to exist on the DotAccelerator parachain, in order to distribute funds and support ongoing parachain project development. 
+Milestones
+
+
+
+
+I Proof of Concept - discovery and ideation phase
+Build a treasury parachain  (Vasilije Markovic, Przemyslaw Swiatowiec)
+Create treasury pallet that can mint a new token in exchange for DOT
+Use XCMP for sending preseeded tokens (Alexandre Samartino, Sergey Kulyakhtin)
+
+II Project refinement - functionality extension 
+Treasury parachain optimisation:
+Enable treasury to allocate funds for development or other project purposes
+Enable voting on the treasury parachain as a mean of controlling treasury
+Use XCMP to standardise asset teleport to other chains and teleport coins minted by treasury
+Team members and responsibilities
+
+Sergey Kulyakhtin
+Vasilije Markovic
+Przemyslaw Swiatowiec
+Alexandre Samartino
+Pallets
+
+Treasury pallet: 
+
+Minting and distributing tokens proportional to the contribution during ICO and predefined founders share
+
+Tracking the transfers of  tokens which it mints and updating the record of ownership
+
+Teleport pallet:
+Pallet using XCMP to teleport tokens on DotCelerator to the parachain project after its launch
+
+
+
 
 
 ## Roadmap
