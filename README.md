@@ -8,7 +8,9 @@ Initial fundraising and token allocation for candidate parachain projects (ICO) 
 Our proposal is to create a DotAccelerator, a parachain that allows contributors to exchange KSM/DOT for the candidate  parachain project token. 
 Once the candidate  parachain project wins the parachain auction the token is distributed to the ICO participants.
 In the future we envision that the base functionality can include governance and effectively allow parachain project treasury to exist on the DotAccelerator parachain, in order to distribute funds and support ongoing parachain project development. 
-Milestones
+
+
+### Milestones
 
 
 
