@@ -42,13 +42,12 @@ Pallet using XCMP to teleport tokens on DotCelerator to the parachain project af
 
 
 
-
+Proposal 
+![alt text](https://github.com/serkul/DOTcelerator/blob/master/System.png?raw=true)
 
 ## Roadmap
 
 - [ ] Come up with minimal functionality which can be achieved within DevCamp
-Proposal 
-![alt text](https://github.com/serkul/DOTcelerator/blob/master/System.png?raw=true)
 - [ ] Get a green flag from instructors
 - [ ] Mock the system and experiment with PolkadotJS on Rococo
 - [ ] Set up testing environment, e.g. private parachains 
