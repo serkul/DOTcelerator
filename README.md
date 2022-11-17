@@ -23,7 +23,9 @@ Treasury parachain optimisation:
 Enable treasury to allocate funds for development or other project purposes
 Enable voting on the treasury parachain as a mean of controlling treasury
 Use XCMP to standardise asset teleport to other chains and teleport coins minted by treasury
-Team members and responsibilities
+
+
+### Team members and responsibilities
 
 Sergey Kulyakhtin
 Vasilije Markovic
@@ -31,7 +33,7 @@ Przemyslaw Swiatowiec
 Alexandre Samartino
 Pallets
 
-Treasury pallet: 
+### Treasury pallet: 
 
 Minting and distributing tokens proportional to the contribution during ICO and predefined founders share
 
