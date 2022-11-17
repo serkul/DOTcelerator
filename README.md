@@ -1,7 +1,7 @@
 # DOTcelerator
 
 
-##Abstract
+## Abstract
  
  
 Initial fundraising and token allocation for candidate parachain projects (ICO) is managed and under full control of the project team. The current model suffers from a lack of transparency and exposes the contributors to a risk of fraud. 
